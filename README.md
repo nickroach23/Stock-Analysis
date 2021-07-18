@@ -10,8 +10,7 @@
 ## Results 
 1.) -I created a ticker index set equal to zero before looping over all the rows.   
       '1a) Create a ticker Index
-       tickerIndex = 0
-
-
-    ![image](https://user-images.githubusercontent.com/64110317/126075412-1c4203dc-6293-4a19-8298-485885d5dda6.png)
+       tickerIndex = 0.
+       
+      Created three arrays: tickerVolumes, tickerStartingPrice and tickerEndingPrice. The #tickerVolumes array is set to a #Long data type. The #tickerStartingPrices and #tickerEndingPricesarray is set to #single data type. Beside each array I included the number of elements (12). 
 
