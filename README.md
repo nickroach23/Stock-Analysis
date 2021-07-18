@@ -11,7 +11,7 @@
 1.) -I created a ticker index set equal to zero before looping over all the rows.   
       '1a) Create a ticker Index
        tickerIndex = 0
-By creating the ticker index it will allow to access the correct arrays for the VBA Code that's presented in the next requirement.
-    - Created three arrays: TickerVolumes, tickerStartingPrices and tickerEndingPrices. The tickerVolumes array is Long Data Type
 
-    
+
+    ![image](https://user-images.githubusercontent.com/64110317/126075412-1c4203dc-6293-4a19-8298-485885d5dda6.png)
+
